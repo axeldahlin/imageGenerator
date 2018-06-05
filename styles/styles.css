@@ -1,0 +1,50 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: coral;
+}
+
+
+/* ================================= 
+  Base Layout Styles
+==================================== */
+
+/* ---- Navigation ---- */
+
+
+
+/* ---- Layout Containers ---- */
+
+
+
+/* ---- Page Elements ---- */
+
+.card {
+	display: none;
+}
+
+/* ================================= 
+  Media Queries
+==================================== */
+
+@media (min-width: 769px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
